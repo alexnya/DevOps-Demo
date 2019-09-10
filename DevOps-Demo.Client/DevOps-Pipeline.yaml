@@ -1,0 +1,7 @@
+# DevOps-Demo - Pipeline
+
+name:
+
+stage: 'build'
+  jobs:
+  
